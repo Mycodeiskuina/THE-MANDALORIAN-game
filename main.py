@@ -1,11 +1,4 @@
-"""
-    Integrantes GRUPO 8:
-    - Alejandro Roque
-    - Fabien Padilla
-    - Mariajulia Romani
-    - Virginia Puente
 
-"""
 
 
 
